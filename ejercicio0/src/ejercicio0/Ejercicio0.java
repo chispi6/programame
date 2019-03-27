@@ -31,7 +31,7 @@ public class Ejercicio0 {
     }
     //2
     private static boolean finalDeJuego() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+        throw new UnsupportedOperationException("holii"); //To change body of generated methods, choose Tools | Templates.
     }
     //3
     private static void logica() {
