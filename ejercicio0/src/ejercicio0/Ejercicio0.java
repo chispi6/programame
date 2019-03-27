@@ -14,9 +14,11 @@ public class Ejercicio0 {
     /**
      * @param args the command line arguments
      */
+    
     public static void main(String[] args) {
         boolean finalizar;
         do {
+            System.out.println("hola");
             String entrada = leerEntrada();
             if (!(finalizar =finalDeJuego())) {
                 logica();
